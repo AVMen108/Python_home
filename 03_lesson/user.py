@@ -10,4 +10,4 @@ class User:
         print("last name:", self.last_name)
 
     def print_full_name(self):
-        print("full name", self.first_name, self.last_name)
+        print("full name:", self.first_name, self.last_name)
